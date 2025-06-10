@@ -103,10 +103,15 @@ print("Secret Code:", str(d) + str(c) + str(b) + str(a))
 ### 🚀 Skills Demonstrated
 
 ✅ Data wrangling with pandas
+
 ✅ Conditional filtering & boolean logic
+
 ✅ Data visualization with Plotly
+
 ✅ User interaction & formatted I/O
+
 ✅ Exploratory analysis & insights reporting
+
 ✅ Basic algorithm design (math & logic exercises)
 
 ### 💡 Future Improvements
