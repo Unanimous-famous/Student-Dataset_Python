@@ -76,6 +76,11 @@ Visualizing student marks around a polar coordinate system.
 
 https://github.com/user-attachments/assets/975c1001-6c03-46ac-9a19-aaae53ffb0bf
 
+
+https://github.com/user-attachments/assets/4a65e4b0-51dd-461d-9e19-936c284beba6
+
+
+
 🧠 Python Exercises: Logic & Arithmetic
 
 ✔️ Exercise Highlights
